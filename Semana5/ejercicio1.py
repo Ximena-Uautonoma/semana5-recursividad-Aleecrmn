@@ -15,7 +15,7 @@ def contar_ciclo(n):
     for i in range(1, n + 1):
         lista_resultado.append(i)
     
-    print(lista_resultado)
+    return lista_resultado
 
 
 
